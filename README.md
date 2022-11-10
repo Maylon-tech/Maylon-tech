@@ -1,4 +1,4 @@
-### Hello there I'm Maylon! 👏
+### Hello there I'm Mailon! 👏
 
 - 🎒 I'm currently learning Front-End.
 - 💻 I'm studying React.js

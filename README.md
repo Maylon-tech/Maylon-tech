@@ -1,7 +1,7 @@
 ### Hello there I'm Mailon! 👏
 
 - 🎒 I'm currently learning Front-End.
-- 💻 I'm studying React.js
+- 💻 I'm studying React.js, Typescript and React Native.
 - 🧑🏻‍🤝‍🧑🏻 I'm looking to collaborate on open source project. 
 
 
